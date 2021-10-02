@@ -2,7 +2,7 @@
 
 ## Projeto:
 * Um CRUD de um Ecommerce com produtos, carrinho, pedidos e pagamentos;
-* Feito para a integração com banco de dados através do JPA;
+* Feito para a integração com banco de dados MySQL através do JPA;
 * Projeto criado para desenvolver habilidades do Spring Framework.
 
 ## Desenvolvimento:
